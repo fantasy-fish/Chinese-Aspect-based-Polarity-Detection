@@ -1,0 +1,102 @@
+Notes:
+1.For better accuracy of the data, I remove all the reviews with number of words <4 and >75.
+2.For the analysis in the plot and cast parts, there may be errors due to the accuracy of the
+prediction model. There may be smaller error in the director part for the labels are made manaully
+instead of being predicted by model.However, I don't think this part of data is representitive enough for there're very few people directly mentioning the director.
+3.The error in the analysis of Never Say Die may be higher than the other two for it is not included in the training data while the other two are.
+4. I don't include the most common words under the neutral part, because I don't think they are representive enough of the audience's attitudes.
+
+-------------------------------------------------------------
+
+Thor: Ragnarok
+
+Percentage of each polarity towards plot:
+Positive: 0.331
+Neutral: 0.340
+Negative: 0.329
+
+Percentage of polarity towards cast:
+Positive: 0.695
+Neutral: 0.272
+Negative: 0.03
+
+Number of reviews under each polarity towards director:
+Positive: 8
+Neutral: 6
+Negative: 5
+
+Trailor:
+There're only 5 reviews mentioning the trailor. Below are some examples:
+预告片比正片好看起码三倍。
+全片最有趣的片段也都在预告片里了。
+Most of them say the trailor is much better than the film itsef for the trailor includes all the funny parts in the film.
+
+Most common words under each polarity:
+Positive: 好笑，娱乐性，锤哥帅，画面，特效，爆米花片,女武神（凯特）
+Negative:插科打诨,搞笑，情节单一，套路,乱
+The audience hold positive attitudes mainly because it's a good commercial film, which is funny and hilarious, and the actor(actress) and VFX are quite impressive.
+The audience hold negative attitudes mainly because the plot is messy and simple, and is too funny.
+They think the story is nothing but funny.
+
+-------------------------------------------------------------
+
+Justice League
+
+Percentage of each polarity towards plot:
+Positive: 0.329
+Neutral: 0.213
+Negative: 0.458
+
+Percentage of polarity towards cast:
+Positive: 0.767
+Neutral: 0.182
+Negative: 0.051
+
+Number of reviews under each polarity towards director:
+Positive: 2
+Neutral: 25
+Negative: 33
+Most of the audiencce mentioned that Zack Snyder's ability of story telling is terrible although his visual style is quite impressive, and Joss Whedon's jokes are quite boring. Actually, their style are not very compatible, which makes the film quite messy.
+
+Trailor:
+There're only 2 reviews mentioning the trailor, which basically hold negative attitude.
+制作预告片的应该换人了
+虚假预告
+
+Most common words under each polarity:
+Positive: 女侠，超人
+Negative:爆米花，漫威，尾灯，扎导，剧情，特效
+Almost all the postive parts are about the actors and actress(especially the superman and the wonder woman).
+For the negative parts, besides the cirtics about the director mentioned above, the audience also criticizes that the plot is too simple and the vfx is quite dull. They also this film produced by DC is quite Marvel style, which is a standard commercial film, good for entertainment but lacking in depth. It's quite different from the dark style in other DC's films. Some audience are quite disappointed to this.
+
+-------------------------------------------------------------
+
+Never Say Die
+
+Percentage of each polarity towards plot:
+Positive: 0.298
+Neutral: 0.316
+Negative: 0.386
+
+Percentage of polarity towards cast:
+Positive: 0.776
+Neutral: 0.155
+Negative: 0.070
+
+Number of reviews under each polarity towards director:
+Their are only 3 reviews explicitly mentioning the director. Two of them mentioned that the director, who also acts a role in the film, is quite upstaging. They are listed below:
+导演客串犯贱
+尹正还是抢戏
+
+Trailor:
+There're only 7 reviews mentioning the trailor. Most of them say that the trailor includes all the funny parts of the film. So it's kind of boring to watch the film after watching the trailor. An example:
+全程让人笑不出来，预告片就是全片的精华了。
+
+Most common words under each polarity:
+Positive:搞笑，演技，马丽,艾伦
+Negative:老套，夏洛特烦恼，剧情，俗，舞台剧（小品）
+As a commedy, most of the audience like the film because it's really funny although many of the points are quite cliched. They also compliments the actors and actress of the film.
+While for the audience who don't like it, there're too many bugs in the plot and it's more like a comedy skit or stage show rather than a film. Some points are really cliched and out-dated. They also mentioned this film is much worse than another recent commedy film, Goodbye Mr. Loser.
+
+
+
